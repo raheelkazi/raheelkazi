@@ -10,18 +10,6 @@ I'm passionate about bringing AI closer to the user - deploying production voice
   <img src="https://komarev.com/ghpvc/?username=raheelkazi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
----
-
-**macOS** · `Swift` `SwiftUI` `AppKit` `Combine`
-
-**Windows** · `C#` `.NET` `ONNX Runtime` `WinML`
-
-**Web & Chrome** · `TypeScript` `React` `Chrome Extensions`
-
-**On-Device AI** · `ONNX` `CoreML` `NPU` `GPU Inference`
-
----
-
 #### What I'm working on
 
 - On-device voice AI - shipping models that run locally across x64 and Arm64
