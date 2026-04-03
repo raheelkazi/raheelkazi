@@ -9,7 +9,7 @@ I'm passionate about bringing AI closer to the user - deploying production voice
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raheelkazi&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheelkazi&theme=github_dark" alt="Contribution Summary" />
 </p>
 
 #### What I'm working on
