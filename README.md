@@ -5,10 +5,6 @@ Head of Engineering, Web / Chrome / Desktop Apps at [Speechify](https://speechif
 I'm passionate about bringing AI closer to the user - deploying production voice and transcription models on-device across GPU and NPU, and building native desktop experiences that feel fast and polished.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheelkazi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheelkazi&theme=github_dark" alt="Contribution Summary" />
 </p>
 
