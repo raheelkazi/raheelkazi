@@ -16,17 +16,6 @@ I'm passionate about bringing AI closer to the user - deploying production voice
 - Platform engineering across desktop, web, and browser extensions
 - Leading teams that move fast without breaking the experience
 
-#### Tech I work with
-
-`Swift` `AppKit` `SwiftUI` `C#` `.NET` `ONNX Runtime` `TypeScript` `React` `Chrome Extensions`
-
-#### Career
-
-🚀 **Speechify** - Head of Engineering, Web / Chrome / Desktop Apps
-📦 **Amazon** - Software Engineering Manager / SDE
-🏦 **Bank of America** - Software Developer, Global Markets
-🎓 **NC State University** - MS Computer Science
-
 #### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheel-kazi)
