@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey, I'm Raheel 👋
 
-<!--
-**raheelkazi/raheelkazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Engineering, Web / Chrome / Desktop Apps at [Speechify](https://speechify.com), where I lead teams building voice AI products that reach millions of users across macOS, Windows, Web, and Chrome. Previously shipped software at **Amazon** and **Bank of America**.
 
-Here are some ideas to get you started:
+I'm passionate about bringing AI closer to the user - deploying production voice and transcription models on-device across GPU and NPU, and building native desktop experiences that feel fast and polished.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm working on
+
+- On-device voice AI - shipping models that run locally across x64 and Arm64
+- Native macOS and Windows apps with real-time text-to-speech and dictation
+- Platform engineering across desktop, web, and browser extensions
+- Leading teams that move fast without breaking the experience
+
+#### Tech I work with
+
+`Swift` `AppKit` `SwiftUI` `C#` `.NET` `ONNX Runtime` `TypeScript` `React` `Chrome Extensions`
+
+#### Career
+
+🚀 **Speechify** - Head of Engineering, Web / Chrome / Desktop Apps
+📦 **Amazon** - Software Engineering Manager / SDE
+🏦 **Bank of America** - Software Developer, Global Markets
+🎓 **NC State University** - MS Computer Science
+
+#### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheel-kazi)
