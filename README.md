@@ -12,7 +12,7 @@ I'm passionate about bringing AI closer to the user - deploying production voice
 
 #### What I'm working on
 
-- On-device voice AI - shipping models that run locally across x64 and Arm64
+- On-device voice AI - shipping models that run locally across iOS, macOS and windows devices
 - Native macOS and Windows apps with real-time text-to-speech and dictation
 - Platform engineering across desktop, web, and browser extensions
 - Leading teams that move fast without breaking the experience
